@@ -2,7 +2,6 @@
 
 - 🔭 I'm a Developer and a lifelong learner.
 - 💪🏼 Currently a student.
-- 🌱 I’m currently learning everything 🤣
 - 👯 I'm looking to collaborate with any **Open-Source contribution**
 - 💬 Talk to me about React, JavaScript, Freelancing Opportunites and open source.
 
