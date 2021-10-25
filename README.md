@@ -1,7 +1,7 @@
 ### Hi there, I'm Solomon Kabaliisa.
 
 - 🔭 I'm a Developer and a lifelong learner.
-- 💪🏼 Currently working as a freelance developer.
+- 💪🏼 Currently a student.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I'm looking to collaborate with any **Open-Source contribution**
 - 💬 Talk to me about React, JavaScript, Freelancing Opportunites and open source.
