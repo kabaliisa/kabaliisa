@@ -3,7 +3,7 @@
 - 🔭 I'm a Developer and a lifelong learner.
 - 💪🏼 Currently a student.
 - 👯 I'm looking to collaborate with any **Open-Source contribution**
-- 💬 Talk to me about React, JavaScript, Freelancing Opportunites and open source.
+- 💬 Talk to me about Java YES Java, React, JavaScript, open source.
 
 ### Connect with me
 
