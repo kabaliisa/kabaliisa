@@ -1,7 +1,6 @@
 ### Hi there, I'm Solomon Kabaliisa.
 
 - 🔭 I'm a Developer and a lifelong learner.
-- 💪🏼 Currently a student.
 - 👯 I'm looking to collaborate with any **Open-Source contribution**
 - 💬 Talk to me about Java YES Java, React, JavaScript, open source.
 
